@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Power BI, Tableau, RNN**
 
-- 💬 Ask me about **Machine Learning, C++, Java**
+- 💬 Ask me about **Artificial Intelligence and Machine Learning, DSA in C++ and Java, Deep Leaning**
 
 - 📫 How to reach me **siddham0411@gmail.com**
 

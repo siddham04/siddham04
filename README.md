@@ -1,4 +1,4 @@
-[![MasterHead](https://s3-alpha.figma.com/hub/file/5678700701/edff9344-027f-483a-bda9-833d69f0c4be-cover.png)](https://github.com/yourusername)
+[![MasterHead](https://s3-alpha.figma.com/hub/file/5678700701/edff9344-027f-483a-bda9-833d69f0c4be-cover.png)](https://github.com/siddham04)
 
 <h1 align="center">Hi 👋, I'm Siddham Jain</h1>
 <h3 align="center">Passionate about AI and Machine Learning | Crafting Solutions in Software Development from India</h3>

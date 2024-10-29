@@ -1,18 +1,19 @@
-
 <h1 align="center">Hi 👋, I'm Siddham Jain</h1>
 <h3 align="center">Passionate about AI and Machine Learning | Crafting Solutions in Software Development from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
 
-  <img align="left" src="https://komarev.com/ghpvc/?username=siddham04&label=Profile%20views&color=0e75b6&style=flat" alt="siddham04" /> 
+<img align="left" src="https://komarev.com/ghpvc/?username=siddham04&label=Profile%20views&color=0e75b6&style=flat" alt="siddham04" /> 
 
-- 🔭 I’m currently working on [PhilanthroHub](https://github.com/shubham-goyal-0811/PhilantroHub)
-- 🌱 I’m currently learning **Power BI, Tableau, RNN**
-- 💬 Ask me about **Artificial Intelligence & Machine Learning(Python), DSA in C++ and Java**
-- 📫 How to reach me: **siddham0411@gmail.com**
-- ⚡ Fun fact: **I am funny**
-  <br />
-  <br />
+<div align="left" style="margin-left: 20px;">
+  <p>
+    - 🔭 I’m currently working on <a href="https://github.com/shubham-goyal-0811/PhilantroHub">**PhilanthroHub**</a><br>
+    - 🌱 I’m currently learning **Power BI, Tableau, RNN**<br>
+    - 💬 Ask me about **Artificial Intelligence & Machine Learning (Python), DSA in C++ and Java**<br>
+    - 📫 How to reach me: **siddham0411@gmail.com**<br>
+    - ⚡ Fun fact: **I am funny**<br>
+  </p>
+</div>
 
 ---
 
@@ -50,27 +51,13 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/w3css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="w3css" width="40" height="40"/> </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddham04&show_icons=true&locale=en&layout=compact" alt="siddham04" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddham04&show_icons=true&locale=en" alt="siddham04" /></p>
 
-<p align="center" style="display: flex; flex-direction: row; gap: 20px; justify-content: center;">
-
-  <div style="border: 2px solid #FF79C6; border-radius: 10px; padding: 10px; background-color: rgba(30, 30, 30, 0.8);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddham04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=BD93F9&icon_color=FFB86C" alt="siddham04" />
-  </div>
-  
-  <div style="border: 2px solid #FF79C6; border-radius: 10px; padding: 10px; background-color: rgba(30, 30, 30, 0.8);">
-    <img src="https://github-readme-stats.vercel.app/api?username=siddham04&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=BD93F9&icon_color=FFB86C" alt="siddham04" />
-  </div>
-  
-  <div style="border: 2px solid #FF79C6; border-radius: 10px; padding: 10px; background-color: rgba(30, 30, 30, 0.8);">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddham04&theme=radical&hide_border=true&background=0D1117&stroke=BD93F9&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6&sideNums=FFB86C&dates=BD93F9" alt="siddham04" />
-  </div>
-
-</p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddham04&" alt="siddham04" /></p>
 

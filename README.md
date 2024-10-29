@@ -4,13 +4,13 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
-
+<br />
 
 
 
 <img align="left" src="https://komarev.com/ghpvc/?username=siddham04&label=Profile%20views&color=0e75b6&style=flat" alt="siddham04" /> 
 <br />
-
+<br />
 <div align="left" style="margin-left: 20px;">
   <p>
     - 🔭 I’m currently working on <a href="https://github.com/shubham-goyal-0811/PhilantroHub">**PhilanthroHub**</a><br>

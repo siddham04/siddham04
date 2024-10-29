@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Siddham Jain</h1>
 <h3 align="center">Passionate about AI and Machine Learning | Crafting Solutions in Software Development from India</h3>
 
-<img  alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
 
-  <img src="https://komarev.com/ghpvc/?username=siddham04&label=Profile%20views&color=0e75b6&style=flat" alt="siddham04" /> 
+  <img align="left" src="https://komarev.com/ghpvc/?username=siddham04&label=Profile%20views&color=0e75b6&style=flat" alt="siddham04" /> 
 
 - 🔭 I’m currently working on [PhilanthroHub](https://github.com/shubham-goyal-0811/PhilantroHub)
 - 🌱 I’m currently learning **Power BI, Tableau, RNN**
@@ -54,20 +54,21 @@
 
 ---
 
-<p align="center" style="display: flex; gap: 10px; justify-content: center;">
+<p align="center" style="display: flex; flex-direction: row; gap: 20px; justify-content: center;">
 
-  <div style="border: 2px solid #FF79C6; border-radius: 10px; padding: 10px;">
+  <div style="border: 2px solid #FF79C6; border-radius: 10px; padding: 10px; background-color: rgba(30, 30, 30, 0.8);">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddham04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=BD93F9&icon_color=FFB86C" alt="siddham04" />
   </div>
   
-  <div style="border: 2px solid #FF79C6; border-radius: 10px; padding: 10px;">
+  <div style="border: 2px solid #FF79C6; border-radius: 10px; padding: 10px; background-color: rgba(30, 30, 30, 0.8);">
     <img src="https://github-readme-stats.vercel.app/api?username=siddham04&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=BD93F9&icon_color=FFB86C" alt="siddham04" />
   </div>
   
-  <div style="border: 2px solid #FF79C6; border-radius: 10px; padding: 10px;">
+  <div style="border: 2px solid #FF79C6; border-radius: 10px; padding: 10px; background-color: rgba(30, 30, 30, 0.8);">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddham04&theme=radical&hide_border=true&background=0D1117&stroke=BD93F9&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6&sideNums=FFB86C&dates=BD93F9" alt="siddham04" />
   </div>
 
 </p>
+
 
 

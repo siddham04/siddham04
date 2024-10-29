@@ -1,17 +1,14 @@
-[![MasterHead](https://s3-alpha.figma.com/hub/file/5678700701/edff9344-027f-483a-bda9-833d69f0c4be-cover.png)](https://github.com/siddham04)
 
 <h1 align="center">Hi 👋, I'm Siddham Jain</h1>
 <h3 align="center">Passionate about AI and Machine Learning | Crafting Solutions in Software Development from India</h3>
 
 <img align="center" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
 
-<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=siddham04&label=Profile%20views&color=0e75b6&style=flat" alt="siddham04" /> 
-</p>
 
 - 🔭 I’m currently working on [PhilanthroHub](https://github.com/shubham-goyal-0811/PhilantroHub)
 - 🌱 I’m currently learning **Power BI, Tableau, RNN**
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, DSA in C++ and Java, Deep Learning**
+- 💬 Ask me about **Artificial Intelligence & Machine Learning(Python), DSA in C++ and Java**
 - 📫 How to reach me: **siddham0411@gmail.com**
 - ⚡ Fun fact: **I am funny**
 
@@ -58,11 +55,10 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddham04&show_icons=true&locale=en&layout=compact" alt="siddham04" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddham04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=BD93F9&icon_color=FFB86C" alt="siddham04" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddham04&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=BD93F9&icon_color=FFB86C" alt="siddham04" />
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddham04&theme=radical&hide_border=true&background=0D1117&stroke=BD93F9&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6&sideNums=FFB86C&dates=BD93F9" alt="siddham04" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddham04&show_icons=true&locale=en" alt="siddham04" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddham04&" alt="siddham04" />
-</p>
+
